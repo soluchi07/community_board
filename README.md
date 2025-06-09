@@ -2,9 +2,9 @@
 
 Submitted by: **Soluchi Fidel-Ibeabuchi**
 
-This web app: ****
+This web app: **Allows you to see and copy the Valorant crosshair codes of your favourite professions esports players!**
 
-Time spent: **1** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
@@ -33,10 +33,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/val_cross_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with screentogif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -44,11 +44,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+At first had issues centering some divs (an age-old problem, I know), but after I got the hang of it everything else went pretty smoothly. I learnt new functions like navigator.clipboard.writeText(), ways to handle web prcesses asynchronously and learnt new styling techniques to add outlines to text.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Soluchi Fidel-Ibeabuchi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
