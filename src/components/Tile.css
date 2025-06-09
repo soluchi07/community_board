@@ -1,0 +1,31 @@
+.tile{
+    background-color: var(--tile-bg-color, #242424);
+    width : 15em;
+    height: 20em;
+    border-radius: 8px;
+    box-shadow: var(--tile-box-shadow, 10px 10px 10px rgba(0,0,0,0.1));
+    padding: 1.5em;
+    margin: 20px;
+    will-change: filter;
+    transition: filter 300ms;
+    align-items: center;
+}
+
+img {
+    background-image: url('bg.jpg');
+    width: 12em;
+    height: 12em;
+    object-fit: cover;
+    border-radius: inherit;
+    margin: 2px;
+}
+
+button{
+    background-color: red;
+    color: white;
+}
+
+/* .tile:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+} */
+
