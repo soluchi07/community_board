@@ -44,7 +44,7 @@ GIF created with screentogif
 
 ## Notes
 
-At first had issues centering some divs (an age-old problem, I know), but after I got the hang of it everything else went pretty smoothly. I learnt new functions like navigator.clipboard.writeText(), ways to handle web prcesses asynchronously and learnt new styling techniques to add outlines to text.
+At first had issues centering some divs (an age-old problem, I know), but after I got the hang of it everything else went pretty smoothly. I learnt new functions like navigator.clipboard.writeText(), ways to handle web processes asynchronously and learnt new styling techniques to add outlines to text.
 
 ## License
 
