@@ -1,63 +1,58 @@
-# Web Development Project 1 - *Pick Your Crosshair!*
+# Pick Your Crosshair! – Valorant Esports Crosshair Explorer
 
-Submitted by: **Soluchi Fidel-Ibeabuchi**
+**Author:** Soluchi Fidel-Ibeabuchi
+**Role:** Developer | Computer Science Student @ Howard University
 
-This web app: **Allows you to see and copy the Valorant crosshair codes of your favourite professions esports players!**
+**Pick Your Crosshair!** is a front-end web app that lets Valorant fans browse and copy the **crosshair codes of professional esports players**. The app presents each player’s crosshair in a clean, responsive card layout and includes one-click clipboard functionality for easy importing into the game.
 
-Time spent: **1.5** hours spent in total
+This project demonstrates my ability to **build responsive UI components, manage user interaction with the clipboard API, and design a theme-driven application for a specific gaming community.**
 
-## Required Features
+---
 
-The following **required** functionality is completed:
+## 🎮 Features
 
-- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [x] Header/title describing the theme is displayed
-- [x] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [x] There are at least 10 cards displayed 
-  - [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [x] Each card should include some information about the event or resource
+### Core Functionality
 
+* **Responsive Card Layout:** Displays 10+ professional crosshairs in an organized card grid.
+* **Metadata Display:** Each card shows relevant info about the pro’s crosshair.
+* **Clipboard Integration:** Clicking a button copies the selected crosshair code instantly for in-game use.
 
-The following **optional** features are implemented:
+### Extended Functionality
 
-- [x] Buttons or links to a related resources are on each card component
-  - [x] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
+* **Styling Enhancements:** Applied outline text and cohesive Valorant-themed design.
 
-The following **additional** features are implemented:
+---
 
-* [x] Site actually copies the crosshairs code seen into your clipboard when the button is clicked
+## 🛠️ Tech Stack
 
-## Video Walkthrough
+* **Frontend:** HTML, CSS, JavaScript
+* **Clipboard API:** `navigator.clipboard.writeText()` for instant copy functionality
+* **Version Control:** Git/GitHub
 
-Here's a walkthrough of implemented required features:
+---
 
-<img src='./val_cross_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## 📸 Demo
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with screentogif
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<img src='./val_cross_demo.gif' alt='Pick Your Crosshair Walkthrough' />  
 
-## Notes
+---
 
-At first had issues centering some divs (an age-old problem, I know), but after I got the hang of it everything else went pretty smoothly. I learnt new functions like navigator.clipboard.writeText(), ways to handle web prcesses asynchronously and learnt new styling techniques to add outlines to text.
+## ⚡ Challenges & Learnings
 
-## License
+* Solved UI alignment issues (centering divs).
+* Learned and applied **Clipboard API** for real-time copying.
+* Strengthened skills in **asynchronous JavaScript** and front-end styling.
 
-    Copyright 2025 Soluchi Fidel-Ibeabuchi
+---
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+## 📚 Key Takeaways
 
-        http://www.apache.org/licenses/LICENSE-2.0
+* Built a gaming-focused web app with **practical, interactive features**.
+* Applied **responsive design principles** and component-based UI organization.
+* Enhanced **JavaScript proficiency** through event handling and API usage.
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+---
+
+## 📄 License
+
+Apache 2.0 License © 2025 Soluchi Fidel-Ibeabuchi
